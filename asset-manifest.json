@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QuizApp/static/css/main.13efcb17.chunk.css",
-    "main.js": "/QuizApp/static/js/main.407b3baf.chunk.js",
-    "main.js.map": "/QuizApp/static/js/main.407b3baf.chunk.js.map",
+    "main.js": "/QuizApp/static/js/main.bf965115.chunk.js",
+    "main.js.map": "/QuizApp/static/js/main.bf965115.chunk.js.map",
     "runtime-main.js": "/QuizApp/static/js/runtime-main.e88c2b57.js",
     "runtime-main.js.map": "/QuizApp/static/js/runtime-main.e88c2b57.js.map",
     "static/js/2.99e91526.chunk.js": "/QuizApp/static/js/2.99e91526.chunk.js",
     "static/js/2.99e91526.chunk.js.map": "/QuizApp/static/js/2.99e91526.chunk.js.map",
     "index.html": "/QuizApp/index.html",
-    "precache-manifest.5521e23504ac826bfe657d2f71434af6.js": "/QuizApp/precache-manifest.5521e23504ac826bfe657d2f71434af6.js",
+    "precache-manifest.22d40111126cac49ea2c2be1fa0f8017.js": "/QuizApp/precache-manifest.22d40111126cac49ea2c2be1fa0f8017.js",
     "service-worker.js": "/QuizApp/service-worker.js",
     "static/css/main.13efcb17.chunk.css.map": "/QuizApp/static/css/main.13efcb17.chunk.css.map",
     "static/js/2.99e91526.chunk.js.LICENSE.txt": "/QuizApp/static/js/2.99e91526.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e88c2b57.js",
     "static/js/2.99e91526.chunk.js",
     "static/css/main.13efcb17.chunk.css",
-    "static/js/main.407b3baf.chunk.js"
+    "static/js/main.bf965115.chunk.js"
   ]
 }
