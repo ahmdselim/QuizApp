@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.13efcb17.chunk.css",
-    "main.js": "/react-deploy/static/js/main.df857c3b.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.df857c3b.chunk.js.map",
-    "runtime-main.js": "/react-deploy/static/js/runtime-main.537e344e.js",
-    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.537e344e.js.map",
-    "static/js/2.99e91526.chunk.js": "/react-deploy/static/js/2.99e91526.chunk.js",
-    "static/js/2.99e91526.chunk.js.map": "/react-deploy/static/js/2.99e91526.chunk.js.map",
-    "index.html": "/react-deploy/index.html",
-    "precache-manifest.6cc83913874a815f32b50813c3875fd7.js": "/react-deploy/precache-manifest.6cc83913874a815f32b50813c3875fd7.js",
-    "service-worker.js": "/react-deploy/service-worker.js",
-    "static/css/main.13efcb17.chunk.css.map": "/react-deploy/static/css/main.13efcb17.chunk.css.map",
-    "static/js/2.99e91526.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.99e91526.chunk.js.LICENSE.txt",
-    "static/media/Amr.jpg": "/react-deploy/static/media/Amr.bd5e3ba1.jpg"
+    "main.css": "/QuizApp/static/css/main.13efcb17.chunk.css",
+    "main.js": "/QuizApp/static/js/main.21ebe0ce.chunk.js",
+    "main.js.map": "/QuizApp/static/js/main.21ebe0ce.chunk.js.map",
+    "runtime-main.js": "/QuizApp/static/js/runtime-main.e88c2b57.js",
+    "runtime-main.js.map": "/QuizApp/static/js/runtime-main.e88c2b57.js.map",
+    "static/js/2.99e91526.chunk.js": "/QuizApp/static/js/2.99e91526.chunk.js",
+    "static/js/2.99e91526.chunk.js.map": "/QuizApp/static/js/2.99e91526.chunk.js.map",
+    "index.html": "/QuizApp/index.html",
+    "precache-manifest.1159faf16557a99a7e3cfa7d6f1fbbd3.js": "/QuizApp/precache-manifest.1159faf16557a99a7e3cfa7d6f1fbbd3.js",
+    "service-worker.js": "/QuizApp/service-worker.js",
+    "static/css/main.13efcb17.chunk.css.map": "/QuizApp/static/css/main.13efcb17.chunk.css.map",
+    "static/js/2.99e91526.chunk.js.LICENSE.txt": "/QuizApp/static/js/2.99e91526.chunk.js.LICENSE.txt",
+    "static/media/Amr.jpg": "/QuizApp/static/media/Amr.bd5e3ba1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.537e344e.js",
+    "static/js/runtime-main.e88c2b57.js",
     "static/js/2.99e91526.chunk.js",
     "static/css/main.13efcb17.chunk.css",
-    "static/js/main.df857c3b.chunk.js"
+    "static/js/main.21ebe0ce.chunk.js"
   ]
 }
