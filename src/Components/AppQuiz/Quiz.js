@@ -102,13 +102,23 @@ const Quiz = () => {
               Your Score : {score} Of {Object.keys(questions).length}
             </p>
             <div className="thank">
-              <h2>Thanks Amr 😀🙏🏼</h2>
+              <h2>
+                Thanks Amr
+                <span role="img" aria-label="Fire">
+                  😀🙏🏼
+                </span>
+              </h2>
               <img className="thank__img" src={img} alt="thanks amr" />
               <p>
-                Thank you very much engineer. Amr. I really do not believe the
-                level I have reached and God willing, for the better
+                Thank you very much eng. Amr. I really do not believe the level
+                I have reached and God willing, for the better
                 <span role="img" aria-label="Fire">
                   🥰😍
+                </span>
+                . and wish you the best in life and work , and congratulations
+                to nearly 1,000 subscribers
+                <span role="img" aria-label="Fire">
+                  🥳🔥
                 </span>
               </p>
             </div>
