@@ -52,10 +52,13 @@ const Quiz = () => {
   const previousPage = () => {
     if (step > 1) {
       setStep(step - 1);
-      setScore(score - 1);
+      if (score === 0) {
+        setScore(0);
+      } else {
+        setScore(score - 1);
+      }
     } else if (step === 1) {
       setStep(step);
-      setScore(score - 1);
     }
     setCorrectAnswers(0);
     setClickedAnswers(0);

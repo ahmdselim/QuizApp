@@ -37,7 +37,7 @@ const Answers = (props) => {
           </span>
         ) : clickedAnswers ? (
           <span role="img" aria-label="Fire">
-            Incorrect Answers 😉
+            Incorrect Answers 😢
           </span>
         ) : (
           ""
